@@ -1,0 +1,11 @@
+.image{
+    width:300px;
+    height: 300px;
+    padding-top: 20px;
+  }
+  .Name{
+    color: cornflowerblue;
+  }
+  .Adress{
+    color: darkblue;
+  }
